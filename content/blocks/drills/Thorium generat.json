@@ -15,9 +15,7 @@
     "power": 5
   },
   "requirements": [
-    { "item": "thorium", "amount": 10 },
-    { "item": "Plata v2", "amount": 15 },
-    { "item": "Crystal creation", "amount": 20 }
+    { "item": "thorium", "amount": 10 }
   ],
   "outputItem": {
     "item": "thorium",

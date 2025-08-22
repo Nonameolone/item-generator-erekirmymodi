@@ -15,9 +15,7 @@
     "power": 5
   },
   "requirements": [
-    { "item": "oxide", "amount": 10 },
-    { "item": "Plata v2", "amount": 15 },
-    { "item": "Crystal creation", "amount": 20 }
+    { "item": "oxide", "amount": 10 }
   ],
   "outputItem": {
     "item": "oxide",
