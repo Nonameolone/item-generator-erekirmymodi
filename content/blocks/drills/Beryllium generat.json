@@ -8,11 +8,11 @@
   "craftTime": 30,
   "idleSound": "smelter",
   "updateEffect": "smoke",
-  "category": "production",
-  "itemCapacity": 1,
+  "category": "mechanical-drill",
+  "itemCapacity": 20,
   "research": "Crystal farm v2",
   "consumes": {
-    "power": 5
+    "power": 3
   },
   "requirements": [
     { "item": "beryllium", "amount": 10 }
