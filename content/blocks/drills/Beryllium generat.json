@@ -8,9 +8,9 @@
   "craftTime": 30,
   "idleSound": "smelter",
   "updateEffect": "smoke",
-  "category": "mechanical-drill",
+  "category": "production",
   "itemCapacity": 20,
-  "research": "Crystal farm v2",
+  "research": "mechanical-drill"
   "consumes": {
     "power": 3
   },
