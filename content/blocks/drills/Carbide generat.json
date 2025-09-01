@@ -8,7 +8,8 @@
   "craftTime": 30,
   "idleSound": "smelter",
   "updateEffect": "smoke",
-  "category": "mechanical-drill",
+  "category": "production",
+  "research": "mechanical-drill"
   "itemCapacity": 1,
   "consumes": {
     "power": 5
