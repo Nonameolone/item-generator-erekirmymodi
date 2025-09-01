@@ -10,7 +10,7 @@
   "updateEffect": "smoke",
   "category": "production",
   "research": "mechanical-drill"
-  "itemCapacity": 1,
+  "itemCapacity": 20,
   "consumes": {
     "power": 5
   },
