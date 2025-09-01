@@ -9,7 +9,7 @@
   "idleSound": "smelter",
   "updateEffect": "smoke",
   "category": "production",
-  "research": "mechanical-drill"
+  "research": "mechanical-drill",
   "itemCapacity": 20,
   "consumes": {
     "power": 5

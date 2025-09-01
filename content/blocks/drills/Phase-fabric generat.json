@@ -9,7 +9,7 @@
   "idleSound": "smelter",
   "updateEffect": "smoke",
   "category": "production",
-  "itemCapacity": 1,
+  "itemCapacity": 20,
   "research": "Plata crafter v2",
   "consumes": {
     "power": 5

@@ -9,7 +9,7 @@
   "idleSound": "smelter",
   "updateEffect": "smoke",
   "category": "production",
-  "itemCapacity": 1,
+  "itemCapacity": 20,
   "research": "Graphite generat",
   "consumes": {
     "power": 5
