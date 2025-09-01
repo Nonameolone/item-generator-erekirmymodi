@@ -8,9 +8,8 @@
   "craftTime": 30,
   "idleSound": "smelter",
   "updateEffect": "smoke",
-  "category": "production",
+  "category": "mechanical-drill",
   "itemCapacity": 1,
-  "research": "Surge-alloy generat",
   "consumes": {
     "power": 5
   },
